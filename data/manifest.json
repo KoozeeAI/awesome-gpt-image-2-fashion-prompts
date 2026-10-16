@@ -1,0 +1,30 @@
+{
+  "case_count": 2,
+  "cases": [
+    {
+      "content_category": "Creative Fashion Video",
+      "fashion_use_case": "Outfit-board infographic with synchronized 360° garment, footwear, and accessory showcase in a luxury catalog motion presentation",
+      "filename": "korean-outfit-board-catalog-animation.md",
+      "media_type": "Video",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/korean-outfit-board-catalog-animation.md",
+      "title": "Korean Outfit Board Catalog Animation"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Luxury handbag product commercial",
+      "filename": "luxury-handbag-cinematic-product-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Handbag",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/luxury-handbag-cinematic-product-commercial.md",
+      "title": "Luxury Handbag Cinematic Product Commercial"
+    }
+  ],
+  "generated_from": "KoozeeAI/ai-fashion-prompts",
+  "normalized_model_key": "gpt-image-2",
+  "repository": "KoozeeAI/awesome-gpt-image-2-fashion-prompts"
+}
