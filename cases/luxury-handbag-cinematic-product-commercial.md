@@ -33,6 +33,9 @@ Final Look: Ultra-realistic, photorealistic materials, flawless leather texture,
 
 - Model: GPT Image 2
 - Media Type: Video
+- Preview Image URL: https://pbs.twimg.com/amplify_video_thumb/2086293393844654080/img/4w_jVx18ud-buEvj.jpg
+- Video URL: https://x.com/Soaima_Ai/status/2086293419140223370
+- Media Asset Source: https://x.com/Soaima_Ai/status/2086293419140223370
 - Fashion Use Case: Luxury handbag product commercial
 - Content Category: Product Commercial
 - Product Category: Handbag

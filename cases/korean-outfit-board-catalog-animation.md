@@ -16,6 +16,9 @@ Create a clean, premium 8-second fashion infographic animation based on the outf
 
 - Model: GPT Image 2
 - Media Type: Video
+- Preview Image URL: https://pbs.twimg.com/amplify_video_thumb/2101148034981875712/img/Lb8TtAzos4Csy5Xc.jpg
+- Video URL: https://x.com/AIwithkhan/status/2101148067458347258
+- Media Asset Source: https://x.com/AIwithkhan/status/2101148067458347258
 - Fashion Use Case: Outfit-board infographic with synchronized 360° garment, footwear, and accessory showcase in a luxury catalog motion presentation
 - Content Category: Creative Fashion Video
 - Product Category: Full Outfit
