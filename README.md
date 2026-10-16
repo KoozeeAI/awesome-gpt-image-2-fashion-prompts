@@ -4,11 +4,30 @@ Explore curated GPT Image 2 fashion prompts for apparel campaigns, fashion produ
 
 Browse visual examples here, then open each Case page for the complete, unchanged Original Prompt.
 
-## 🧭 Explore the Collection
+**[Explore the web gallery →](https://pre.koozee.ai/tools/fashion-ai-prompt-library?qa=7f123b14)**
 
-- [Open the web gallery →](https://pre.koozee.ai/tools/fashion-ai-prompt-library?qa=7f123b14)
-- **2 curated prompts** for GPT Image 2
-- GPT Image 2 is an AI image generation model. In fashion workflows, it can support product imagery, model-led concepts, campaign directions, and e-commerce creative references built from detailed prompts.
+## 📚 Table of Contents
+
+- [What is GPT Image 2?](#-what-is-gpt-image-2)
+- [Statistics](#-statistics)
+- [Fashion Prompt Examples](#-fashion-prompt-examples)
+- [Browse by Category](#-browse-by-category)
+- [Create with KOOZEE](#-create-with-koozee)
+- [More Prompt Libraries](#-more-prompt-libraries)
+- [Source & Attribution](#-source--attribution)
+
+## 🧠 What is GPT Image 2?
+
+GPT Image 2 is an AI image generation model. In fashion workflows, it can support product imagery, model-led concepts, campaign directions, and e-commerce creative references built from detailed prompts.
+
+## 📊 Statistics
+
+| Metric | Count |
+| --- | ---: |
+| Total Prompts | 2 |
+| Video Prompts | 2 |
+| Product Categories | 2 |
+| Fashion Use Cases | 2 |
 
 ## ✨ Fashion Prompt Examples
 
@@ -17,14 +36,10 @@ Browse visual examples here, then open each Case page for the complete, unchange
 #### ▶️ Video Preview
 
 <div align="center">
-
-<a href="https://x.com/AIwithkhan/status/2101148067458347258">
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101148034981875712/img/Lb8TtAzos4Csy5Xc.jpg" width="700" alt="Korean Outfit Board Catalog Animation">
-</a>
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101148034981875712/img/Lb8TtAzos4Csy5Xc.jpg" width="460" alt="Korean Outfit Board Catalog Animation">
+</div>
 
 **[Watch original video →](https://x.com/AIwithkhan/status/2101148067458347258)**
-
-</div>
 
 #### 📝 About This Case
 
@@ -62,14 +77,10 @@ Create a clean, premium 8-second fashion infographic animation based on the outf
 #### ▶️ Video Preview
 
 <div align="center">
-
-<a href="https://x.com/Soaima_Ai/status/2086293419140223370">
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086293393844654080/img/4w_jVx18ud-buEvj.jpg" width="700" alt="Luxury Handbag Cinematic Product Commercial">
-</a>
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086293393844654080/img/4w_jVx18ud-buEvj.jpg" width="460" alt="Luxury Handbag Cinematic Product Commercial">
+</div>
 
 **[Watch original video →](https://x.com/Soaima_Ai/status/2086293419140223370)**
-
-</div>
 
 #### 📝 About This Case
 
