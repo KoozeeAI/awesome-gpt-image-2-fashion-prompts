@@ -8,6 +8,10 @@ Explore prompts by the fashion product featured in each case.
 
 - [Burgundy Leather Trench Gown Editorial](../cases/burgundy-leather-trench-gown-editorial.md)
 
+### Shoes (1)
+
+- [Futuristic Black Performance Sneaker Ad](../cases/futuristic-black-performance-sneaker-ad.md)
+
 ### Handbag (1)
 
 - [Luxury Handbag Cinematic Product Commercial](../cases/luxury-handbag-cinematic-product-commercial.md)

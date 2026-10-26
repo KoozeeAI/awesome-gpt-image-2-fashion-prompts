@@ -41,11 +41,11 @@ GPT Image 2 is an AI image generation model. In fashion workflows, it can suppor
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 4 |
-| Image Prompts | 2 |
+| Total Prompts | 5 |
+| Image Prompts | 3 |
 | Video Prompts | 2 |
-| Product Categories | 4 |
-| Fashion Use Cases | 4 |
+| Product Categories | 5 |
+| Fashion Use Cases | 5 |
 
 ## ✨ Fashion Prompt Examples
 
@@ -114,7 +114,46 @@ Create a luxury cinematic fashion film featuring an elegant female model wearing
 
 ---
 
-### No. 3: Korean Outfit Board Catalog Animation
+### No. 3: Futuristic Black Performance Sneaker Ad
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HTOAVBnWcAARVFo.jpg" width="460" alt="Futuristic Black Performance Sneaker Ad">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Shoes · Premium cinematic sports footwear product advertising with hero sneaker fidelity · Image.
+
+#### 💬 Prompt Preview
+
+```
+Create a premium cinematic Adidas sports advertising image featuring a futuristic black Adidas performance sneaker as the hero product, suspended slightly above a dark reflective surface in a dramatic studio environment.
+
+The sneaker should look powerful, aerodynamic, and meticulously engineered, with realistic mesh, engineered knit, rubber outsole, subtle stitching, fine material textures, and the iconic Adidas three-stripe design clearly visible. Keep the product design authentic and commercially polished.
+
+Use dramatic directional lighting from above and behind, creating sharp rim highlights along the silhouette while revealing the intricate texture of the shoe. Add subtle atmospheric mist, tiny floating particles, and controlled motion-inspired light trails around the sneaker to suggest speed and energy without distracting from the product.
+
+The background transitions from deep charcoal to black with a subtle architectural texture inspired by a modern urban sports arena. The compos
+```
+...
+
+**[View full prompt →](./cases/futuristic-black-performance-sneaker-ad.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Premium cinematic sports footwear product advertising with hero sneaker fidelity
+- **Content Category:** Product Photo
+- **Product Category:** Shoes
+- **Creator:** Brie AI (@briepretty_728)
+- **Source:** [View original source](https://x.com/briepretty_728/status/2104167144166498808)
+
+---
+
+### No. 4: Korean Outfit Board Catalog Animation
 
 #### ▶️ Video Preview
 
@@ -155,7 +194,7 @@ Create a clean, premium 8-second fashion infographic animation based on the outf
 
 ---
 
-### No. 4: Luxury Handbag Cinematic Product Commercial
+### No. 5: Luxury Handbag Cinematic Product Commercial
 
 #### ▶️ Video Preview
 

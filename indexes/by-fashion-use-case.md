@@ -19,3 +19,7 @@ Explore prompts by their intended fashion use case.
 ### Outfit-board infographic with synchronized 360° garment, footwear, and accessory showcase in a luxury catalog motion presentation (1)
 
 - [Korean Outfit Board Catalog Animation](../cases/korean-outfit-board-catalog-animation.md)
+
+### Premium cinematic sports footwear product advertising with hero sneaker fidelity (1)
+
+- [Futuristic Black Performance Sneaker Ad](../cases/futuristic-black-performance-sneaker-ad.md)
