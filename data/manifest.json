@@ -1,6 +1,28 @@
 {
-  "case_count": 2,
+  "case_count": 4,
   "cases": [
+    {
+      "content_category": "Not specified",
+      "fashion_use_case": "Luxury fashion campaign / Instagram ecommerce ad with styled monochrome outfit and accessory flatlay",
+      "filename": "apple-inspired-luxury-fashion-campaign-poster-with-model-and-flatlay.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Not specified",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/apple-inspired-luxury-fashion-campaign-poster-with-model-and-flatlay.md",
+      "title": "Apple-inspired luxury fashion campaign poster with model and flatlay"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Luxury cinematic fashion editorial showcasing a specified leather trench gown and coordinated accessories",
+      "filename": "burgundy-leather-trench-gown-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Dress",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/burgundy-leather-trench-gown-editorial.md",
+      "title": "Burgundy Leather Trench Gown Editorial"
+    },
     {
       "content_category": "Creative Fashion Video",
       "fashion_use_case": "Outfit-board infographic with synchronized 360° garment, footwear, and accessory showcase in a luxury catalog motion presentation",

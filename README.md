@@ -41,14 +41,80 @@ GPT Image 2 is an AI image generation model. In fashion workflows, it can suppor
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 2 |
+| Total Prompts | 4 |
+| Image Prompts | 2 |
 | Video Prompts | 2 |
-| Product Categories | 2 |
-| Fashion Use Cases | 2 |
+| Product Categories | 4 |
+| Fashion Use Cases | 4 |
 
 ## ✨ Fashion Prompt Examples
 
-### No. 1: Korean Outfit Board Catalog Animation
+### No. 1: Apple-inspired luxury fashion campaign poster with model and flatlay
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HJKhVf_bkAELEtA.jpg" width="460" alt="Apple-inspired luxury fashion campaign poster with model and flatlay">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Luxury fashion campaign / Instagram ecommerce ad with styled monochrome outfit and accessory flatlay · Image.
+
+#### 💬 Prompt Preview
+
+```
+Ultra realistic luxury Apple-inspired fashion campaign poster featuring a stylish modern woman in a premium minimalist aesthetic. Clean matte white and silver background with soft Apple keynote lighting, elegant shadows, futuristic luxury vibe, and ultra polished studio composition. Beautiful fashionable female model standing confidently in center wearing sleek monochrome outfit inspired by Apple design language — fitted white crop jacket, silver-gray trousers, premium sneakers, minimal jewelry, glossy hair, soft makeup, futuristic fashion influencer vibe. Surrounding flatlay accessories include AirPods-style earbuds, smart watch, silver handbag, sunglasses, luxury heels, and premium gadgets arranged aesthetically around the model. Elegant typography inspired by Apple ads with minimal clean font, small product labels, subtle arrows, and premium pricing tags. Hyper detailed textures, cinematic soft lighting, realistic fabric folds, luxury editorial photography style, Pinterest luxury fa
+```
+...
+
+**[View full prompt →](./cases/apple-inspired-luxury-fashion-campaign-poster-with-model-and-flatlay.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Luxury fashion campaign / Instagram ecommerce ad with styled monochrome outfit and accessory flatlay
+- **Content Category:** Not specified
+- **Product Category:** Not specified
+- **Creator:** Synthia
+- **Source:** [View original source](https://x.com/AIwithSynthia/status/2058885375548907866)
+
+---
+
+### No. 2: Burgundy Leather Trench Gown Editorial
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HVK22VhWsAA0d0R.jpg" width="460" alt="Burgundy Leather Trench Gown Editorial">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Dress · Luxury cinematic fashion editorial showcasing a specified leather trench gown and coordinated accessories · Image.
+
+#### 💬 Prompt Preview
+
+```
+Create a luxury cinematic fashion film featuring an elegant female model wearing a glossy deep burgundy leather trench gown with a dramatic flowing train, black leather gloves, matching pointed high heels, and a sleek short black bob hairstyle. https://t.co/UQPnqK6FYR
+```
+
+**[View full prompt →](./cases/burgundy-leather-trench-gown-editorial.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Luxury cinematic fashion editorial showcasing a specified leather trench gown and coordinated accessories
+- **Content Category:** Fashion Editorial
+- **Product Category:** Dress
+- **Creator:** Zaviaan (@zaviaanroy)
+- **Source:** [View original source](https://x.com/zaviaanroy/status/2112952264013021411)
+
+---
+
+### No. 3: Korean Outfit Board Catalog Animation
 
 #### ▶️ Video Preview
 
@@ -89,7 +155,7 @@ Create a clean, premium 8-second fashion infographic animation based on the outf
 
 ---
 
-### No. 2: Luxury Handbag Cinematic Product Commercial
+### No. 4: Luxury Handbag Cinematic Product Commercial
 
 #### ▶️ Video Preview
 

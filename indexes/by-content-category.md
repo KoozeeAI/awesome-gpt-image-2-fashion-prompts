@@ -8,6 +8,14 @@ Explore prompts by their primary fashion output type.
 
 - [Luxury Handbag Cinematic Product Commercial](../cases/luxury-handbag-cinematic-product-commercial.md)
 
+### Fashion Editorial (1)
+
+- [Burgundy Leather Trench Gown Editorial](../cases/burgundy-leather-trench-gown-editorial.md)
+
 ### Creative Fashion Video (1)
 
 - [Korean Outfit Board Catalog Animation](../cases/korean-outfit-board-catalog-animation.md)
+
+### Not specified (1)
+
+- [Apple-inspired luxury fashion campaign poster with model and flatlay](../cases/apple-inspired-luxury-fashion-campaign-poster-with-model-and-flatlay.md)
