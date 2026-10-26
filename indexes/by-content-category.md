@@ -12,10 +12,10 @@ Explore prompts by their primary fashion output type.
 
 - [Burgundy Leather Trench Gown Editorial](../cases/burgundy-leather-trench-gown-editorial.md)
 
+### Campaign Poster (1)
+
+- [Apple-inspired luxury fashion campaign poster with model and flatlay](../cases/apple-inspired-luxury-fashion-campaign-poster-with-model-and-flatlay.md)
+
 ### Creative Fashion Video (1)
 
 - [Korean Outfit Board Catalog Animation](../cases/korean-outfit-board-catalog-animation.md)
-
-### Not specified (1)
-
-- [Apple-inspired luxury fashion campaign poster with model and flatlay](../cases/apple-inspired-luxury-fashion-campaign-poster-with-model-and-flatlay.md)

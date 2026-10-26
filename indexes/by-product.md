@@ -16,6 +16,6 @@ Explore prompts by the fashion product featured in each case.
 
 - [Korean Outfit Board Catalog Animation](../cases/korean-outfit-board-catalog-animation.md)
 
-### Not specified (1)
+### Mixed Fashion (1)
 
 - [Apple-inspired luxury fashion campaign poster with model and flatlay](../cases/apple-inspired-luxury-fashion-campaign-poster-with-model-and-flatlay.md)

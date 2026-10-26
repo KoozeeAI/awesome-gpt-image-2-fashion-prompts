@@ -59,7 +59,7 @@ GPT Image 2 is an AI image generation model. In fashion workflows, it can suppor
 
 #### 📝 About This Case
 
-A curated AI fashion prompt for Luxury fashion campaign / Instagram ecommerce ad with styled monochrome outfit and accessory flatlay · Image.
+A curated AI fashion prompt for Mixed Fashion · Luxury fashion campaign / Instagram ecommerce ad with styled monochrome outfit and accessory flatlay · Image.
 
 #### 💬 Prompt Preview
 
@@ -75,8 +75,8 @@ Ultra realistic luxury Apple-inspired fashion campaign poster featuring a stylis
 - **Model:** GPT Image 2
 - **Media Type:** Image
 - **Fashion Use Case:** Luxury fashion campaign / Instagram ecommerce ad with styled monochrome outfit and accessory flatlay
-- **Content Category:** Not specified
-- **Product Category:** Not specified
+- **Content Category:** Campaign Poster
+- **Product Category:** Mixed Fashion
 - **Creator:** Synthia
 - **Source:** [View original source](https://x.com/AIwithSynthia/status/2058885375548907866)
 

@@ -2,12 +2,12 @@
   "case_count": 4,
   "cases": [
     {
-      "content_category": "Not specified",
+      "content_category": "Campaign Poster",
       "fashion_use_case": "Luxury fashion campaign / Instagram ecommerce ad with styled monochrome outfit and accessory flatlay",
       "filename": "apple-inspired-luxury-fashion-campaign-poster-with-model-and-flatlay.md",
       "media_type": "Image",
       "normalized_model_key": "gpt-image-2",
-      "product_category": "Not specified",
+      "product_category": "Mixed Fashion",
       "raw_model": "GPT Image 2",
       "source_path": "cases/apple-inspired-luxury-fashion-campaign-poster-with-model-and-flatlay.md",
       "title": "Apple-inspired luxury fashion campaign poster with model and flatlay"

@@ -1,6 +1,6 @@
 # Apple-inspired luxury fashion campaign poster with model and flatlay
 
-A curated AI fashion prompt for Luxury fashion campaign / Instagram ecommerce ad with styled monochrome outfit and accessory flatlay · Image.
+A curated AI fashion prompt for Mixed Fashion · Luxury fashion campaign / Instagram ecommerce ad with styled monochrome outfit and accessory flatlay · Image.
 
 ## Prompt
 
@@ -13,8 +13,8 @@ Ultra realistic luxury Apple-inspired fashion campaign poster featuring a stylis
 - Preview Image URL: https://pbs.twimg.com/media/HJKhVf_bkAELEtA.jpg
 - Media Asset Source: https://x.com/AIwithSynthia/status/2058885375548907866
 - Fashion Use Case: Luxury fashion campaign / Instagram ecommerce ad with styled monochrome outfit and accessory flatlay
-- Content Category: Not specified
-- Product Category: Not specified
+- Content Category: Campaign Poster
+- Product Category: Mixed Fashion
 - Creator: Synthia
 
 ## Source
