@@ -41,15 +41,52 @@ GPT Image 2 is an AI image generation model. In fashion workflows, it can suppor
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 7 |
-| Image Prompts | 5 |
+| Total Prompts | 10 |
+| Image Prompts | 8 |
 | Video Prompts | 2 |
 | Product Categories | 5 |
-| Fashion Use Cases | 7 |
+| Fashion Use Cases | 10 |
 
 ## ✨ Fashion Prompt Examples
 
-### No. 1: Apple-inspired luxury fashion campaign poster with model and flatlay
+### No. 1: 90s Grunge Layered Outfit Editorial
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HVIdqDeakAAuH_m.jpg" width="460" alt="90s Grunge Layered Outfit Editorial">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Full Outfit · Reference-based full-body grunge fashion editorial with layered streetwear outfit and garment texture fidelity · Image.
+
+#### 💬 Prompt Preview
+
+```
+Create a hyper-realistic full-body fashion editorial of the same young adult female character from the reference image, preserving her signature vivid violet-purple chin-length bob haircut with soft straight bangs, fair porcelain skin, natural freckles across her nose and cheeks, hazel/light-brown almond-shaped eyes, delicate facial features, glossy lips, and slim physique.
+
+She is walking mid-stride, turning her head back toward the camera with a calm confident expression and dynamic purple hair movement. She wears an oversized grey knitted cardigan decorated with silver safety pins over a burgundy long-sleeve top, a flowing white satin slip skirt layered over black fishnet tights, and burgundy leather lace-up combat boots.
+
+The background features a lavender studio wall with bold black grid lines and spray-painted X marks. Brown paper squares with stenciled numbers are scattered across the concrete floor. Use bright professional studio lighting, soft shadows, realistic satin reflecti
+```
+...
+
+**[View full prompt →](./cases/90s-grunge-layered-outfit-editorial.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Reference-based full-body grunge fashion editorial with layered streetwear outfit and garment texture fidelity
+- **Content Category:** Fashion Editorial
+- **Product Category:** Full Outfit
+- **Creator:** Wareen AI 💟 (@Wareenaa)
+- **Source:** [View original source](https://x.com/Wareenaa/status/2112783792788386145)
+
+---
+
+### No. 2: Apple-inspired luxury fashion campaign poster with model and flatlay
 
 #### 🖼️ Result Preview
 
@@ -82,7 +119,7 @@ Ultra realistic luxury Apple-inspired fashion campaign poster featuring a stylis
 
 ---
 
-### No. 2: Burgundy Leather Trench Gown Editorial
+### No. 3: Burgundy Leather Trench Gown Editorial
 
 #### 🖼️ Result Preview
 
@@ -114,7 +151,7 @@ Create a luxury cinematic fashion film featuring an elegant female model wearing
 
 ---
 
-### No. 3: Cobalt Tailored Set Summer Editorial
+### No. 4: Cobalt Tailored Set Summer Editorial
 
 #### 🖼️ Result Preview
 
@@ -155,7 +192,7 @@ One arm rests casually beside her near the handbag, while the other arm is relax
 
 ---
 
-### No. 4: Futuristic Black Performance Sneaker Ad
+### No. 5: Futuristic Black Performance Sneaker Ad
 
 #### 🖼️ Result Preview
 
@@ -194,7 +231,7 @@ The background transitions from deep charcoal to black with a subtle architectur
 
 ---
 
-### No. 5: Korean Outfit Board Catalog Animation
+### No. 6: Korean Outfit Board Catalog Animation
 
 #### ▶️ Video Preview
 
@@ -235,7 +272,43 @@ Create a clean, premium 8-second fashion infographic animation based on the outf
 
 ---
 
-### No. 6: Leather Jacket Street Style Editorial
+### No. 7: Layered Knit Full-Body Fashion Editorial
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HTRsqxfbcAA0i8s.jpg" width="460" alt="Layered Knit Full-Body Fashion Editorial">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Full Outfit · Luxury editorial full-body styling with realistic fabric and coordinated outfit presentation · Image.
+
+#### 💬 Prompt Preview
+
+```
+Create a highly realistic full-body fashion portrait of a young woman sitting elegantly on wide marble stairs inside a luxurious, sunlit modern building. She has long, straight dark-brown hair with soft bangs, natural facial features, a gentle expression, and realistic skin texture.
+She is wearing a rust-orange utility jacket draped over her shoulders, a cream ribbed knit sweater, a dark navy buttoned vest, high-waisted wide-leg navy trousers, and elegant rust-orange pointed-toe high heels. A matching structured rust-orange handbag rests beside her.
+She sits naturally with one hand supporting her face and the other resting beside her, relaxed editorial pose. Large floor-to-ceiling windows in the background reveal a softly blurred city and distant mountains. Warm golden sunlight streams through the windows, creating beautiful natural highlights and soft shadows across the marble architecture.
+Photorealistic fashion photography, luxury editorial aesthetic, natural skin texture, realistic
+```
+...
+
+**[View full prompt →](./cases/layered-knit-full-body-fashion-editorial.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Luxury editorial full-body styling with realistic fabric and coordinated outfit presentation
+- **Content Category:** Fashion Editorial
+- **Product Category:** Full Outfit
+- **Creator:** Zarnish (@ZarnishNael)
+- **Source:** [View original source](https://x.com/ZarnishNael/status/2104426415752126600)
+
+---
+
+### No. 8: Leather Jacket Street Style Editorial
 
 #### 🖼️ Result Preview
 
@@ -274,7 +347,7 @@ Natural bright daytime sunlight, realistic shadows, soft highlights, slightly wa
 
 ---
 
-### No. 7: Luxury Handbag Cinematic Product Commercial
+### No. 9: Luxury Handbag Cinematic Product Commercial
 
 #### ▶️ Video Preview
 
@@ -315,6 +388,39 @@ Transition into detailed macro shots showcasing the handbag’s exquisite crafts
 - **Product Category:** Handbag
 - **Creator:** Soaima (@Soaima_Ai)
 - **Source:** [View original source](https://x.com/Soaima_Ai/status/2086293419140223370)
+
+---
+
+### No. 10: Ruby Velvet Evening Gown Editorial
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HUWl5gaXgAADYPt.jpg" width="460" alt="Ruby Velvet Evening Gown Editorial">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Dress · Luxury evening gown fashion editorial with specified silhouette, velvet material, and draping details · Image.
+
+#### 💬 Prompt Preview
+
+```
+A stunning ultra-realistic 8K luxury fashion editorial portrait of an elegant adult woman with long, voluminous chestnut-brown waves, soft face-framing strands, luminous fair skin, hazel-green eyes, delicate facial features, and glossy rose-pink lips, wearing an exquisite deep ruby-red velvet evening gown featuring a sculpted sweetheart neckline, intricate pleated draping across the bodice, an off-the-shoulder design, flowing floor-length fabric, and dramatic cape-like sleeves cascading elegantly from her arms, paired with a sparkling diamond statement necklace, matching chandelier earrings, and a luxurious diamond bracelet. She poses gracefully with her hands resting delicately near her thigh, gazing directly into the camera with a confident, soft expression. The setting is an elegant upscale ballroom with a dark, warm-toned background, golden ambient lights, and a subtle mirror reflection behind her, creating a glamorous red-carpet atmosphere. Professional luxury fashion photography,
+```
+...
+
+**[View full prompt →](./cases/ruby-velvet-evening-gown-editorial.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Luxury evening gown fashion editorial with specified silhouette, velvet material, and draping details
+- **Content Category:** Fashion Portrait
+- **Product Category:** Dress
+- **Creator:** Talia (@TaliaAariz)
+- **Source:** [View original source](https://x.com/TaliaAariz/status/2109274485366907362)
 
 ## 🧩 Browse Fashion Prompts by Category
 

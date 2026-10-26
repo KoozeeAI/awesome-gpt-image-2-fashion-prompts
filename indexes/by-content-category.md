@@ -12,15 +12,21 @@ Explore prompts by their primary fashion output type.
 
 - [Luxury Handbag Cinematic Product Commercial](../cases/luxury-handbag-cinematic-product-commercial.md)
 
-### Fashion Editorial (3)
+### Fashion Editorial (5)
 
+- [90s Grunge Layered Outfit Editorial](../cases/90s-grunge-layered-outfit-editorial.md)
 - [Burgundy Leather Trench Gown Editorial](../cases/burgundy-leather-trench-gown-editorial.md)
 - [Cobalt Tailored Set Summer Editorial](../cases/cobalt-tailored-set-summer-editorial.md)
+- [Layered Knit Full-Body Fashion Editorial](../cases/layered-knit-full-body-fashion-editorial.md)
 - [Leather Jacket Street Style Editorial](../cases/leather-jacket-street-style-editorial.md)
 
 ### Campaign Poster (1)
 
 - [Apple-inspired luxury fashion campaign poster with model and flatlay](../cases/apple-inspired-luxury-fashion-campaign-poster-with-model-and-flatlay.md)
+
+### Fashion Portrait (1)
+
+- [Ruby Velvet Evening Gown Editorial](../cases/ruby-velvet-evening-gown-editorial.md)
 
 ### Creative Fashion Video (1)
 

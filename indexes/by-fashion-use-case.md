@@ -12,6 +12,14 @@ Explore prompts by their intended fashion use case.
 
 - [Burgundy Leather Trench Gown Editorial](../cases/burgundy-leather-trench-gown-editorial.md)
 
+### Luxury editorial full-body styling with realistic fabric and coordinated outfit presentation (1)
+
+- [Layered Knit Full-Body Fashion Editorial](../cases/layered-knit-full-body-fashion-editorial.md)
+
+### Luxury evening gown fashion editorial with specified silhouette, velvet material, and draping details (1)
+
+- [Ruby Velvet Evening Gown Editorial](../cases/ruby-velvet-evening-gown-editorial.md)
+
 ### Luxury fashion campaign / Instagram ecommerce ad with styled monochrome outfit and accessory flatlay (1)
 
 - [Apple-inspired luxury fashion campaign poster with model and flatlay](../cases/apple-inspired-luxury-fashion-campaign-poster-with-model-and-flatlay.md)
@@ -27,6 +35,10 @@ Explore prompts by their intended fashion use case.
 ### Premium cinematic sports footwear product advertising with hero sneaker fidelity (1)
 
 - [Futuristic Black Performance Sneaker Ad](../cases/futuristic-black-performance-sneaker-ad.md)
+
+### Reference-based full-body grunge fashion editorial with layered streetwear outfit and garment texture fidelity (1)
+
+- [90s Grunge Layered Outfit Editorial](../cases/90s-grunge-layered-outfit-editorial.md)
 
 ### Street-style editorial look generation with specified garments and accessories (1)
 

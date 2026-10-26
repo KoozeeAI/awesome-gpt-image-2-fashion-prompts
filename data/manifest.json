@@ -1,6 +1,17 @@
 {
-  "case_count": 7,
+  "case_count": 10,
   "cases": [
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Reference-based full-body grunge fashion editorial with layered streetwear outfit and garment texture fidelity",
+      "filename": "90s-grunge-layered-outfit-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/90s-grunge-layered-outfit-editorial.md",
+      "title": "90s Grunge Layered Outfit Editorial"
+    },
     {
       "content_category": "Campaign Poster",
       "fashion_use_case": "Luxury fashion campaign / Instagram ecommerce ad with styled monochrome outfit and accessory flatlay",
@@ -58,6 +69,17 @@
     },
     {
       "content_category": "Fashion Editorial",
+      "fashion_use_case": "Luxury editorial full-body styling with realistic fabric and coordinated outfit presentation",
+      "filename": "layered-knit-full-body-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/layered-knit-full-body-fashion-editorial.md",
+      "title": "Layered Knit Full-Body Fashion Editorial"
+    },
+    {
+      "content_category": "Fashion Editorial",
       "fashion_use_case": "Street-style editorial look generation with specified garments and accessories",
       "filename": "leather-jacket-street-style-editorial.md",
       "media_type": "Image",
@@ -77,6 +99,17 @@
       "raw_model": "GPT Image 2",
       "source_path": "cases/luxury-handbag-cinematic-product-commercial.md",
       "title": "Luxury Handbag Cinematic Product Commercial"
+    },
+    {
+      "content_category": "Fashion Portrait",
+      "fashion_use_case": "Luxury evening gown fashion editorial with specified silhouette, velvet material, and draping details",
+      "filename": "ruby-velvet-evening-gown-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Dress",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/ruby-velvet-evening-gown-editorial.md",
+      "title": "Ruby Velvet Evening Gown Editorial"
     }
   ],
   "generated_from": "KoozeeAI/ai-fashion-prompts",
