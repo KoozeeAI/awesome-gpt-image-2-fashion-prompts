@@ -41,11 +41,11 @@ GPT Image 2 is an AI image generation model. In fashion workflows, it can suppor
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 5 |
-| Image Prompts | 3 |
+| Total Prompts | 7 |
+| Image Prompts | 5 |
 | Video Prompts | 2 |
 | Product Categories | 5 |
-| Fashion Use Cases | 5 |
+| Fashion Use Cases | 7 |
 
 ## ✨ Fashion Prompt Examples
 
@@ -114,7 +114,48 @@ Create a luxury cinematic fashion film featuring an elegant female model wearing
 
 ---
 
-### No. 3: Futuristic Black Performance Sneaker Ad
+### No. 3: Cobalt Tailored Set Summer Editorial
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HTMmWcdboAAoPs0.jpg" width="460" alt="Cobalt Tailored Set Summer Editorial">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Full Outfit · Identity-locked summer fashion editorial with prescribed tailored cobalt suiting, sandals, and red leather tote styling · Image.
+
+#### 💬 Prompt Preview
+
+```
+Create a photorealistic high-fashion summer editorial using the uploaded reference image as the strict character reference.
+
+CHARACTER:
+Use the exact same Wareen character from the reference image. Preserve her recognizable facial features, facial structure, purple wavy bob haircut, purple bangs, freckles across the cheeks and nose, skin tone, body proportions, and overall visual identity. Do not redesign or replace the character. Only change her outfit, pose, accessories, and environment according to the scene below.
+
+POSE & COMPOSITION:
+Full-body low-angle fashion photograph of Wareen lounging horizontally across a minimalist cobalt-blue architectural ledge. She is reclining comfortably with her back supported by the structure, knees raised and legs crossed naturally. Her head is slightly tilted back while she looks upward toward the camera with a calm, confident expression.
+
+One arm rests casually beside her near the handbag, while the other arm is relaxed along the ledge. The neare
+```
+...
+
+**[View full prompt →](./cases/cobalt-tailored-set-summer-editorial.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Identity-locked summer fashion editorial with prescribed tailored cobalt suiting, sandals, and red leather tote styling
+- **Content Category:** Fashion Editorial
+- **Product Category:** Full Outfit
+- **Creator:** Wareen AI 💟 (@Wareenaa)
+- **Source:** [View original source](https://x.com/Wareenaa/status/2104067633083781131)
+
+---
+
+### No. 4: Futuristic Black Performance Sneaker Ad
 
 #### 🖼️ Result Preview
 
@@ -153,7 +194,7 @@ The background transitions from deep charcoal to black with a subtle architectur
 
 ---
 
-### No. 4: Korean Outfit Board Catalog Animation
+### No. 5: Korean Outfit Board Catalog Animation
 
 #### ▶️ Video Preview
 
@@ -194,7 +235,46 @@ Create a clean, premium 8-second fashion infographic animation based on the outf
 
 ---
 
-### No. 5: Luxury Handbag Cinematic Product Commercial
+### No. 6: Leather Jacket Street Style Editorial
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HTw7NVibYAAThXa.jpg" width="460" alt="Leather Jacket Street Style Editorial">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Full Outfit · Street-style editorial look generation with specified garments and accessories · Image.
+
+#### 💬 Prompt Preview
+
+```
+Create a photorealistic high-fashion street-style photograph of a stylish young woman standing casually on a modern European city street. She wears a black leather jacket over a fitted blue button-up shirt, high-waisted wide-leg black trousers, a black belt, black loafers, and carries a large black tote bag. Add sleek black rectangular sunglasses and minimal elegant jewelry.
+
+She has a relaxed, confident posture with one hand in her trouser pocket, captured naturally as if photographed during a casual city walk. Full-body composition, subject centered, realistic proportions and natural body anatomy.
+
+The environment features modern urban architecture, glass-and-concrete buildings, parked cars, leafy street trees, brick pavement, road markings and subtle everyday city activity in the background.
+
+Natural bright daytime sunlight, realistic shadows, soft highlights, slightly warm tones, authentic reflections, subtle depth of field. The image should feel like a candid luxury fashion editor
+```
+...
+
+**[View full prompt →](./cases/leather-jacket-street-style-editorial.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Street-style editorial look generation with specified garments and accessories
+- **Content Category:** Fashion Editorial
+- **Product Category:** Full Outfit
+- **Creator:** Sairah (@Sairah_0)
+- **Source:** [View original source](https://x.com/Sairah_0/status/2106623836745826647)
+
+---
+
+### No. 7: Luxury Handbag Cinematic Product Commercial
 
 #### ▶️ Video Preview
 

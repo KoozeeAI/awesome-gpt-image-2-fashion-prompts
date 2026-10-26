@@ -1,5 +1,5 @@
 {
-  "case_count": 5,
+  "case_count": 7,
   "cases": [
     {
       "content_category": "Campaign Poster",
@@ -24,6 +24,17 @@
       "title": "Burgundy Leather Trench Gown Editorial"
     },
     {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Identity-locked summer fashion editorial with prescribed tailored cobalt suiting, sandals, and red leather tote styling",
+      "filename": "cobalt-tailored-set-summer-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/cobalt-tailored-set-summer-editorial.md",
+      "title": "Cobalt Tailored Set Summer Editorial"
+    },
+    {
       "content_category": "Product Photo",
       "fashion_use_case": "Premium cinematic sports footwear product advertising with hero sneaker fidelity",
       "filename": "futuristic-black-performance-sneaker-ad.md",
@@ -44,6 +55,17 @@
       "raw_model": "GPT Image 2",
       "source_path": "cases/korean-outfit-board-catalog-animation.md",
       "title": "Korean Outfit Board Catalog Animation"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Street-style editorial look generation with specified garments and accessories",
+      "filename": "leather-jacket-street-style-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/leather-jacket-street-style-editorial.md",
+      "title": "Leather Jacket Street Style Editorial"
     },
     {
       "content_category": "Product Commercial",

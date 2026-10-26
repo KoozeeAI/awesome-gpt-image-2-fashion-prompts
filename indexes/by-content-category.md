@@ -12,9 +12,11 @@ Explore prompts by their primary fashion output type.
 
 - [Luxury Handbag Cinematic Product Commercial](../cases/luxury-handbag-cinematic-product-commercial.md)
 
-### Fashion Editorial (1)
+### Fashion Editorial (3)
 
 - [Burgundy Leather Trench Gown Editorial](../cases/burgundy-leather-trench-gown-editorial.md)
+- [Cobalt Tailored Set Summer Editorial](../cases/cobalt-tailored-set-summer-editorial.md)
+- [Leather Jacket Street Style Editorial](../cases/leather-jacket-street-style-editorial.md)
 
 ### Campaign Poster (1)
 

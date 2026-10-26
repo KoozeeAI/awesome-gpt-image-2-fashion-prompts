@@ -16,9 +16,11 @@ Explore prompts by the fashion product featured in each case.
 
 - [Luxury Handbag Cinematic Product Commercial](../cases/luxury-handbag-cinematic-product-commercial.md)
 
-### Full Outfit (1)
+### Full Outfit (3)
 
+- [Cobalt Tailored Set Summer Editorial](../cases/cobalt-tailored-set-summer-editorial.md)
 - [Korean Outfit Board Catalog Animation](../cases/korean-outfit-board-catalog-animation.md)
+- [Leather Jacket Street Style Editorial](../cases/leather-jacket-street-style-editorial.md)
 
 ### Mixed Fashion (1)
 
