@@ -41,11 +41,11 @@ GPT Image 2 is an AI image generation model. In fashion workflows, it can suppor
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 10 |
-| Image Prompts | 8 |
+| Total Prompts | 17 |
+| Image Prompts | 15 |
 | Video Prompts | 2 |
-| Product Categories | 5 |
-| Fashion Use Cases | 10 |
+| Product Categories | 6 |
+| Fashion Use Cases | 17 |
 
 ## ✨ Fashion Prompt Examples
 
@@ -151,7 +151,46 @@ Create a luxury cinematic fashion film featuring an elegant female model wearing
 
 ---
 
-### No. 4: Cobalt Tailored Set Summer Editorial
+### No. 4: Cinematic editorial outdoor fashion photo with ribbed tank and beige trousers
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HRJMSHWaoAAvJfT.jpg" width="460" alt="Cinematic editorial outdoor fashion photo with ribbed tank and beige trousers">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Ultra-realistic editorial fashion-magazine photography with specified casual outfit and accessories · Image.
+
+#### 💬 Prompt Preview
+
+```
+Create an ultra-realistic cinematic editorial fashion photograph of a young woman with long, slightly tousled black hair and soft bangs, casually leaning forward against a minimalist white outdoor chair in an open grassy field. Capture the scene from a subtle low-angle perspective for a confident, contemporary feel.
+
+She wears a simple white ribbed tank top paired with relaxed-fit beige trousers, accessorized with a delicate silver chain necklace and matching bracelet. Her makeup is understated and natural, with warm sunlight illuminating her skin. She has a calm, self-assured expression and an effortless, laid-back pose.
+
+Behind her, a clear blue sky creates a clean, airy backdrop, complemented by modern minimalist outdoor furniture. Use a shallow depth of field to gently separate the subject from the environment, with natural daylight, soft shadows, realistic skin texture, and balanced HDR tones.
+
+35mm editorial lens aesthetic, f/2.8 aperture, cinematic composition, authentic outdoor
+```
+...
+
+**[View full prompt →](./cases/cinematic-editorial-outdoor-fashion-photo-with-ribbed-tank-and-beige-trousers.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Ultra-realistic editorial fashion-magazine photography with specified casual outfit and accessories
+- **Content Category:** Not specified
+- **Product Category:** Not specified
+- **Creator:** Jack
+- **Source:** [View original source](https://x.com/j_smeaton99/status/2094820658605912071)
+
+---
+
+### No. 5: Cobalt Tailored Set Summer Editorial
 
 #### 🖼️ Result Preview
 
@@ -192,7 +231,116 @@ One arm rests casually beside her near the handbag, while the other arm is relax
 
 ---
 
-### No. 5: Futuristic Black Performance Sneaker Ad
+### No. 6: Color-Block Multi-Outfit Campaign Poster
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HTYZd-QbcAAivGK.jpg" width="460" alt="Color-Block Multi-Outfit Campaign Poster">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Mixed Fashion · Multi-outfit color-panel editorial composite with distinct garments per block · Image.
+
+#### 💬 Prompt Preview
+
+```
+CONCEPT — EXACT: A vertical poster composite — five tall color-block panels in a row across the top, each holding a standing portrait of the same woman in a different outfit matching that panel's color, with the bottom of each panel melting into dripping paint splashes in the same color over a clean white background, and below them a larger seated portrait of her on an ornate teal armchair.
+
+PANEL COLORS (left to right): bright blue, red, green, navy, orange — each panel a solid flat color with the woman cropped from the head to mid-thigh, and the panel's lower edge dissolving into a paint splash with long vertical drips running down onto the white background.
+
+PANEL 1 (blue): Standing straight, arms relaxed at her sides, soft calm smile, light-wash denim jacket over a white top, jeans.
+PANEL 2 (red): Standing with one hand on the hip, soft calm smile, red sleeveless V-neck pleated midi dress.
+PANEL 3 (green): Standing straight, arms relaxed, soft calm smile, emerald-green satin button
+```
+...
+
+**[View full prompt →](./cases/color-block-multi-outfit-campaign-poster.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Multi-outfit color-panel editorial composite with distinct garments per block
+- **Content Category:** Campaign Poster
+- **Product Category:** Mixed Fashion
+- **Creator:** Aiza (@AizaAi12)
+- **Source:** [View original source](https://x.com/AizaAi12/status/2104897890988777651)
+
+---
+
+### No. 7: Embroidered Maxi Dress Forest Editorial
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HTh-lahXAAAMhC2.jpg" width="460" alt="Embroidered Maxi Dress Forest Editorial">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Dress · Modest full-outfit rendering with specified garment embroidery, hijab drape, and fabric detail in a lifestyle fashion photograph · Image.
+
+#### 💬 Prompt Preview
+
+```
+A beautiful young South Asian woman standing gracefully on a rustic wooden bridge in a lush green forest during warm golden-hour daylight. She is wearing a long elegant off-white/ivory modest maxi dress with wide bell sleeves, featuring intricate dark brown floral embroidery along the sleeve borders and dark brown cuffs. A flowing dark chocolate-brown hijab/scarf is draped naturally around her head, neck, and down the front. She carries a small cream-colored shoulder bag. Natural soft makeup, subtle red lipstick, gentle pleasant expression, looking slightly to the side. Full-body composition, one hand resting on the wooden railing and the other relaxed by her side. Tall trees, dense green foliage, rocks, wooden railings and a peaceful forest pathway in the background. Warm sunlight filtering through leaves, realistic skin texture, natural fabric folds, photorealistic fashion photography, cinematic depth of field, soft bokeh, highly detailed, realistic proportions, vertical portrait, 9:
+```
+...
+
+**[View full prompt →](./cases/embroidered-maxi-dress-forest-editorial.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Modest full-outfit rendering with specified garment embroidery, hijab drape, and fabric detail in a lifestyle fashion photograph
+- **Content Category:** Fashion Portrait
+- **Product Category:** Dress
+- **Creator:** Zarnish (@ZarnishNael)
+- **Source:** [View original source](https://x.com/ZarnishNael/status/2105572027645977038)
+
+---
+
+### No. 8: Emerald Cable Knit Couture Editorial
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HU0X7kDa8AEKhvT.jpg" width="460" alt="Emerald Cable Knit Couture Editorial">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Full Outfit · Luxury haute couture magazine-cover editorial with specified knit sweater, pleated skirt, and coordinated accessories · Image.
+
+#### 💬 Prompt Preview
+
+```
+“EMERALD REIGN: THE ICON & HER ROYAL CAT”
+
+Create an extraordinary, ultra-photorealistic luxury fashion editorial featuring a beautiful young adult woman and her majestic fluffy white cat. The image must feel like an exclusive international haute couture magazine cover, combining avant-garde fashion, royal elegance, playful personality, cinematic storytelling, and sophisticated emerald-green aesthetics. Every detail must be meticulously crafted, physically realistic, and visually unforgettable.
+
+**POSE & ICONIC COMPOSITION:** The woman sits sideways on an extraordinary sculptural black-gloss designer throne with elegant brushed-chrome detailing. Her legs are gracefully crossed, one elbow resting naturally on the chair's armrest, while her upper body leans slightly forward in a confident, relaxed editorial pose. Her face turns toward the camera with a subtle mischievous smile and effortless superstar charisma. One hand delicately lowers her emerald crystal sunglasses, revealing her expr
+```
+...
+
+**[View full prompt →](./cases/emerald-cable-knit-couture-editorial.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Luxury haute couture magazine-cover editorial with specified knit sweater, pleated skirt, and coordinated accessories
+- **Content Category:** Fashion Editorial
+- **Product Category:** Full Outfit
+- **Creator:** Aaqib ali (@AaqibVx)
+- **Source:** [View original source](https://x.com/AaqibVx/status/2111370121168183299)
+
+---
+
+### No. 9: Futuristic Black Performance Sneaker Ad
 
 #### 🖼️ Result Preview
 
@@ -231,7 +379,7 @@ The background transitions from deep charcoal to black with a subtle architectur
 
 ---
 
-### No. 6: Korean Outfit Board Catalog Animation
+### No. 10: Korean Outfit Board Catalog Animation
 
 #### ▶️ Video Preview
 
@@ -272,7 +420,7 @@ Create a clean, premium 8-second fashion infographic animation based on the outf
 
 ---
 
-### No. 7: Layered Knit Full-Body Fashion Editorial
+### No. 11: Layered Knit Full-Body Fashion Editorial
 
 #### 🖼️ Result Preview
 
@@ -308,7 +456,7 @@ Photorealistic fashion photography, luxury editorial aesthetic, natural skin tex
 
 ---
 
-### No. 8: Leather Jacket Street Style Editorial
+### No. 12: Leather Jacket Street Style Editorial
 
 #### 🖼️ Result Preview
 
@@ -347,7 +495,7 @@ Natural bright daytime sunlight, realistic shadows, soft highlights, slightly wa
 
 ---
 
-### No. 9: Luxury Handbag Cinematic Product Commercial
+### No. 13: Luxury Handbag Cinematic Product Commercial
 
 #### ▶️ Video Preview
 
@@ -391,7 +539,126 @@ Transition into detailed macro shots showcasing the handbag’s exquisite crafts
 
 ---
 
-### No. 10: Ruby Velvet Evening Gown Editorial
+### No. 14: Luxury Menswear Half-Zip Campaign Editorial
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HTNkYQja4AAS4IT.jpg" width="460" alt="Luxury Menswear Half-Zip Campaign Editorial">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Full Outfit · Reference-to-photorealistic luxury menswear campaign editorial with preserved ensemble styling · Image.
+
+#### 💬 Prompt Preview
+
+```
+-
+**MASTER PROMPT — ICONIC LUXURY MENSWEAR CAMPAIGN | CINEMATIC EDITORIAL | PHOTOREALISTIC 8K**
+
+Transform the provided reference image into an **ultra-premium, photorealistic cinematic luxury fashion campaign photograph**, as if photographed for an internationally renowned European luxury fashion house.
+
+### 01 — IDENTITY PRESERVATION | ABSOLUTE PRIORITY
+
+Preserve the subject’s **exact recognizable facial identity** with maximum fidelity.
+
+Maintain the natural facial proportions, jawline, nose, lips, eyes, eyebrows, eyelids, hairstyle, hairline, hair volume, skin tone, body proportions and authentic masculine appearance.
+
+Do not beautify, redesign, age, de-age, slim, widen, reshape or replace the face.
+
+**The subject must remain unmistakably the same person.**
+
+Preserve realistic pores, subtle skin texture, natural facial asymmetry, fine facial details and believable masculine characteristics.
+
+No artificial face enhancement, no AI-looking skin, no facial reconstruction and no identit
+```
+...
+
+**[View full prompt →](./cases/luxury-menswear-half-zip-campaign-editorial.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Reference-to-photorealistic luxury menswear campaign editorial with preserved ensemble styling
+- **Content Category:** Fashion Editorial
+- **Product Category:** Full Outfit
+- **Creator:** Aaqib ali (@AaqibVx)
+- **Source:** [View original source](https://x.com/AaqibVx/status/2104135836556202178)
+
+---
+
+### No. 15: Luxury Travel Jumpsuit Fashion Portrait
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HTcHcksaIAAHB0S.jpg" width="460" alt="Luxury Travel Jumpsuit Fashion Portrait">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Full Outfit · Luxury travel editorial outfit styling with fabric-realistic jumpsuit and coat · Image.
+
+#### 💬 Prompt Preview
+
+```
+Create a highly realistic luxury travel fashion portrait of an elegant young woman standing on a private airport tarmac beside a sleek private jet. She has long, voluminous wavy dark-brown hair flowing naturally in the breeze, stylish aviator sunglasses, bold red lipstick, and refined natural makeup. She is wearing a sophisticated deep teal fitted jumpsuit with a matching long tailored coat draped over her shoulders, a silver luxury wristwatch, and elegant earrings.
+She is holding the handle of a premium brown designer-style rolling suitcase, standing confidently beside the aircraft stairs. Bright clear blue sky, private jet visible in the background, modern airport hangar and subtle vehicles in the distance. Strong natural daylight, realistic shadows, high-end executive-travel atmosphere, luxury fashion editorial photography, photorealistic skin texture, natural hair strands, realistic fabric details, cinematic depth of field, sharp focus, 4K, premium magazine photography, vertical 4:
+```
+...
+
+**[View full prompt →](./cases/luxury-travel-jumpsuit-fashion-portrait.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Luxury travel editorial outfit styling with fabric-realistic jumpsuit and coat
+- **Content Category:** Fashion Portrait
+- **Product Category:** Full Outfit
+- **Creator:** Zarnish (@ZarnishNael)
+- **Source:** [View original source](https://x.com/ZarnishNael/status/2105159550802268607)
+
+---
+
+### No. 16: Pakistani Embroidered Outfit Fashion Portrait
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HTml-eqacAAr33e.jpg" width="460" alt="Pakistani Embroidered Outfit Fashion Portrait">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Full Outfit · Traditional Pakistani ensemble presentation in photorealistic editorial portrait · Image.
+
+#### 💬 Prompt Preview
+
+```
+Create a highly realistic full-body portrait of a young South Asian woman wearing an elegant deep emerald-green traditional Pakistani outfit with delicate red floral embroidery. She has long, naturally wavy dark-brown hair, center-parted and softly framing her face, warm fair skin, expressive brown eyes, natural eyebrows, soft pink lips, and realistic facial features. Preserve a natural human appearance with visible skin texture and subtle imperfections.
+She wears a matching sheer embroidered dupatta draped gracefully over her shoulders, ornate silver jhumka earrings, and multiple green bangles. Her hands are gently placed together near her waist. The outfit features intricate red rose and floral embroidery across the sleeves, bodice, dupatta, and lower dress.
+Soft natural daylight, elegant indoor setting, light neutral background with blurred green plants and red flowers, shallow depth of field, soft bokeh, realistic fabric texture, cinematic portrait photography, 85mm lens, natural p
+```
+...
+
+**[View full prompt →](./cases/pakistani-embroidered-outfit-fashion-portrait.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2
+- **Media Type:** Image
+- **Fashion Use Case:** Traditional Pakistani ensemble presentation in photorealistic editorial portrait
+- **Content Category:** Fashion Portrait
+- **Product Category:** Full Outfit
+- **Creator:** Zarnish (@ZarnishNael)
+- **Source:** [View original source](https://x.com/ZarnishNael/status/2105896803975462957)
+
+---
+
+### No. 17: Ruby Velvet Evening Gown Editorial
 
 #### 🖼️ Result Preview
 
@@ -438,9 +705,12 @@ Discover a fashion prompt → review the result → open the complete prompt →
 
 - [GPT Image 2.5 Fashion Prompts](https://github.com/KoozeeAI/awesome-gpt-image-2-5-fashion-prompts)
 - [Seedance 2.5 Fashion Prompts](https://github.com/KoozeeAI/awesome-seedance-2-5-fashion-prompts)
+- [Kling 4.0 Fashion Prompts](https://github.com/KoozeeAI/awesome-kling-4-fashion-prompts)
 
 ## 📚 Source & Attribution
 
 These prompts are curated from public sources. Original creator attribution and source links are retained wherever available.
+
+Full Original Prompts are preserved in each Case file; preview text is only a length-limited exact prefix.
 
 This model-specific repository is maintained by KOOZEE and synchronized from our internal prompt library.

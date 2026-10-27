@@ -12,22 +12,32 @@ Explore prompts by their primary fashion output type.
 
 - [Luxury Handbag Cinematic Product Commercial](../cases/luxury-handbag-cinematic-product-commercial.md)
 
-### Fashion Editorial (5)
+### Fashion Editorial (7)
 
 - [90s Grunge Layered Outfit Editorial](../cases/90s-grunge-layered-outfit-editorial.md)
 - [Burgundy Leather Trench Gown Editorial](../cases/burgundy-leather-trench-gown-editorial.md)
 - [Cobalt Tailored Set Summer Editorial](../cases/cobalt-tailored-set-summer-editorial.md)
+- [Emerald Cable Knit Couture Editorial](../cases/emerald-cable-knit-couture-editorial.md)
 - [Layered Knit Full-Body Fashion Editorial](../cases/layered-knit-full-body-fashion-editorial.md)
 - [Leather Jacket Street Style Editorial](../cases/leather-jacket-street-style-editorial.md)
+- [Luxury Menswear Half-Zip Campaign Editorial](../cases/luxury-menswear-half-zip-campaign-editorial.md)
 
-### Campaign Poster (1)
+### Campaign Poster (2)
 
 - [Apple-inspired luxury fashion campaign poster with model and flatlay](../cases/apple-inspired-luxury-fashion-campaign-poster-with-model-and-flatlay.md)
+- [Color-Block Multi-Outfit Campaign Poster](../cases/color-block-multi-outfit-campaign-poster.md)
 
-### Fashion Portrait (1)
+### Fashion Portrait (4)
 
+- [Embroidered Maxi Dress Forest Editorial](../cases/embroidered-maxi-dress-forest-editorial.md)
+- [Luxury Travel Jumpsuit Fashion Portrait](../cases/luxury-travel-jumpsuit-fashion-portrait.md)
+- [Pakistani Embroidered Outfit Fashion Portrait](../cases/pakistani-embroidered-outfit-fashion-portrait.md)
 - [Ruby Velvet Evening Gown Editorial](../cases/ruby-velvet-evening-gown-editorial.md)
 
 ### Creative Fashion Video (1)
 
 - [Korean Outfit Board Catalog Animation](../cases/korean-outfit-board-catalog-animation.md)
+
+### Not specified (1)
+
+- [Cinematic editorial outdoor fashion photo with ribbed tank and beige trousers](../cases/cinematic-editorial-outdoor-fashion-photo-with-ribbed-tank-and-beige-trousers.md)

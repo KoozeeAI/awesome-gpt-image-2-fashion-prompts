@@ -28,6 +28,22 @@ Explore prompts by their intended fashion use case.
 
 - [Luxury Handbag Cinematic Product Commercial](../cases/luxury-handbag-cinematic-product-commercial.md)
 
+### Luxury haute couture magazine-cover editorial with specified knit sweater, pleated skirt, and coordinated accessories (1)
+
+- [Emerald Cable Knit Couture Editorial](../cases/emerald-cable-knit-couture-editorial.md)
+
+### Luxury travel editorial outfit styling with fabric-realistic jumpsuit and coat (1)
+
+- [Luxury Travel Jumpsuit Fashion Portrait](../cases/luxury-travel-jumpsuit-fashion-portrait.md)
+
+### Modest full-outfit rendering with specified garment embroidery, hijab drape, and fabric detail in a lifestyle fashion photograph (1)
+
+- [Embroidered Maxi Dress Forest Editorial](../cases/embroidered-maxi-dress-forest-editorial.md)
+
+### Multi-outfit color-panel editorial composite with distinct garments per block (1)
+
+- [Color-Block Multi-Outfit Campaign Poster](../cases/color-block-multi-outfit-campaign-poster.md)
+
 ### Outfit-board infographic with synchronized 360° garment, footwear, and accessory showcase in a luxury catalog motion presentation (1)
 
 - [Korean Outfit Board Catalog Animation](../cases/korean-outfit-board-catalog-animation.md)
@@ -40,6 +56,18 @@ Explore prompts by their intended fashion use case.
 
 - [90s Grunge Layered Outfit Editorial](../cases/90s-grunge-layered-outfit-editorial.md)
 
+### Reference-to-photorealistic luxury menswear campaign editorial with preserved ensemble styling (1)
+
+- [Luxury Menswear Half-Zip Campaign Editorial](../cases/luxury-menswear-half-zip-campaign-editorial.md)
+
 ### Street-style editorial look generation with specified garments and accessories (1)
 
 - [Leather Jacket Street Style Editorial](../cases/leather-jacket-street-style-editorial.md)
+
+### Traditional Pakistani ensemble presentation in photorealistic editorial portrait (1)
+
+- [Pakistani Embroidered Outfit Fashion Portrait](../cases/pakistani-embroidered-outfit-fashion-portrait.md)
+
+### Ultra-realistic editorial fashion-magazine photography with specified casual outfit and accessories (1)
+
+- [Cinematic editorial outdoor fashion photo with ribbed tank and beige trousers](../cases/cinematic-editorial-outdoor-fashion-photo-with-ribbed-tank-and-beige-trousers.md)

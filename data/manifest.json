@@ -1,5 +1,5 @@
 {
-  "case_count": 10,
+  "case_count": 17,
   "cases": [
     {
       "content_category": "Fashion Editorial",
@@ -35,6 +35,17 @@
       "title": "Burgundy Leather Trench Gown Editorial"
     },
     {
+      "content_category": "Not specified",
+      "fashion_use_case": "Ultra-realistic editorial fashion-magazine photography with specified casual outfit and accessories",
+      "filename": "cinematic-editorial-outdoor-fashion-photo-with-ribbed-tank-and-beige-trousers.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Not specified",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/cinematic-editorial-outdoor-fashion-photo-with-ribbed-tank-and-beige-trousers.md",
+      "title": "Cinematic editorial outdoor fashion photo with ribbed tank and beige trousers"
+    },
+    {
       "content_category": "Fashion Editorial",
       "fashion_use_case": "Identity-locked summer fashion editorial with prescribed tailored cobalt suiting, sandals, and red leather tote styling",
       "filename": "cobalt-tailored-set-summer-editorial.md",
@@ -44,6 +55,39 @@
       "raw_model": "GPT Image 2",
       "source_path": "cases/cobalt-tailored-set-summer-editorial.md",
       "title": "Cobalt Tailored Set Summer Editorial"
+    },
+    {
+      "content_category": "Campaign Poster",
+      "fashion_use_case": "Multi-outfit color-panel editorial composite with distinct garments per block",
+      "filename": "color-block-multi-outfit-campaign-poster.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Mixed Fashion",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/color-block-multi-outfit-campaign-poster.md",
+      "title": "Color-Block Multi-Outfit Campaign Poster"
+    },
+    {
+      "content_category": "Fashion Portrait",
+      "fashion_use_case": "Modest full-outfit rendering with specified garment embroidery, hijab drape, and fabric detail in a lifestyle fashion photograph",
+      "filename": "embroidered-maxi-dress-forest-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Dress",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/embroidered-maxi-dress-forest-editorial.md",
+      "title": "Embroidered Maxi Dress Forest Editorial"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Luxury haute couture magazine-cover editorial with specified knit sweater, pleated skirt, and coordinated accessories",
+      "filename": "emerald-cable-knit-couture-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/emerald-cable-knit-couture-editorial.md",
+      "title": "Emerald Cable Knit Couture Editorial"
     },
     {
       "content_category": "Product Photo",
@@ -99,6 +143,39 @@
       "raw_model": "GPT Image 2",
       "source_path": "cases/luxury-handbag-cinematic-product-commercial.md",
       "title": "Luxury Handbag Cinematic Product Commercial"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Reference-to-photorealistic luxury menswear campaign editorial with preserved ensemble styling",
+      "filename": "luxury-menswear-half-zip-campaign-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/luxury-menswear-half-zip-campaign-editorial.md",
+      "title": "Luxury Menswear Half-Zip Campaign Editorial"
+    },
+    {
+      "content_category": "Fashion Portrait",
+      "fashion_use_case": "Luxury travel editorial outfit styling with fabric-realistic jumpsuit and coat",
+      "filename": "luxury-travel-jumpsuit-fashion-portrait.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/luxury-travel-jumpsuit-fashion-portrait.md",
+      "title": "Luxury Travel Jumpsuit Fashion Portrait"
+    },
+    {
+      "content_category": "Fashion Portrait",
+      "fashion_use_case": "Traditional Pakistani ensemble presentation in photorealistic editorial portrait",
+      "filename": "pakistani-embroidered-outfit-fashion-portrait.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2",
+      "source_path": "cases/pakistani-embroidered-outfit-fashion-portrait.md",
+      "title": "Pakistani Embroidered Outfit Fashion Portrait"
     },
     {
       "content_category": "Fashion Portrait",
